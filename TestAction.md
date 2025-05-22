@@ -1,5 +1,6 @@
-Hey, hey! 
+Hey, hey 👋
 
-This should trigger an action. 
+Opening a PR to add this file should trigger an Action.
 
+Let's go! 
 🚀
